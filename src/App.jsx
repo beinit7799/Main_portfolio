@@ -8,7 +8,6 @@ import Projects from './components/Projects';
 import { Contact } from './components/Contact';
 
 const App = () => {
-    // "homepage": "https://beinit7799.github.io/Main_portfolio/",
 
   return (
     <div className='overflow-x-hidden text-neutral-300 antialiased selection:bg-cyan-300 selection:text-cyan-900'>
